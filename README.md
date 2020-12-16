@@ -1,5 +1,7 @@
 # MaskDetectorOpenCVDeepLearning
 
+Please go through [Readme.pdf](https://github.com/abirSCU/MaskDetectorOpenCVDeepLearning/blob/main/Readme.pdf) for Details
+
 [DataSet link](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
 For Analysis, please read Readme.pdf
